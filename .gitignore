@@ -1,0 +1,15 @@
+# General Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data (Crucial: Kaggle datasets are huge, don't push them to GitHub!)
+data/
+*.csv
+*.zip
+
+# Local environment (if you created it inside the folder)
+env/
+venv/
