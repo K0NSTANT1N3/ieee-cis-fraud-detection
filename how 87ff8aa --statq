@@ -1,0 +1,22 @@
+[33m80dd1e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit (amend): readme
+[33m24f43fb[m HEAD@{1}: commit (amend): readme
+[33m80dd1e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{2}: commit (amend): readme
+[33mc762597[m HEAD@{3}: commit (amend): readme
+[33m87ff8aa[m HEAD@{4}: commit: readme
+[33m1f7fcef[m HEAD@{5}: reset: moving to origin/main
+[33mb8e7f94[m HEAD@{6}: commit: tre
+[33mcf5c13d[m HEAD@{7}: reset: moving to origin/main
+[33mad8f839[m HEAD@{8}: commit: tre
+[33md85a032[m HEAD@{9}: commit: basic
+[33m59abe8f[m HEAD@{10}: merge origin/main: Fast-forward
+[33mc14f1bd[m HEAD@{11}: commit: logistic start
+[33m813eca8[m HEAD@{12}: merge origin/main: Fast-forward
+[33mf9df513[m HEAD@{13}: commit: eda done
+[33ma6c6818[m HEAD@{14}: commit: default stage commit
+[33m7479f1b[m HEAD@{15}: commit: default stage commit
+[33m4e50bc1[m HEAD@{16}: Branch: renamed refs/heads/main to refs/heads/main
+[33m4e50bc1[m HEAD@{18}: commit: first commit
+[33mce5babc[m HEAD@{19}: Branch: renamed refs/heads/main to refs/heads/main
+[33mce5babc[m HEAD@{21}: commit: first commit
+[33m2468ad0[m HEAD@{22}: Branch: renamed refs/heads/main to refs/heads/main
+[33m2468ad0[m HEAD@{24}: commit (initial): first commit
